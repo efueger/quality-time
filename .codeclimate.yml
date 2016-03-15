@@ -1,6 +1,6 @@
 ---
 engines:
-  csslint:
+  css-lint:
     enabled: true
   coffeelint:
     enabled: true
